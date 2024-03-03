@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Daniel Cardona</h1>
+<h1 align="center">Hi 🌍, I'm Juan Daniel Cardona</h1>
 <h3 align="center">Systems and computing engineering | Developer</h3>
 
 <br>
